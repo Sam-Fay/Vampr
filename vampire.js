@@ -123,4 +123,4 @@ offspring2.addOffspring(offspring8);
 
 console.log(rootVampire.allMillennialVampires)
 
-module.exports = Vampire;
+module.exports = Vampire
